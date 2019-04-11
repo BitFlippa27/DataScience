@@ -1,0 +1,39 @@
+Hi i'm Dennis and i'm currently studying applied computer science with specialization in robotics.
+My experiences in the field of data science confines to programming, linear algebra, calculus and statistic classes at the university. This semester i will join the the course, artificial intelligence, where we discuss several machine and deep learning techniques.
+ 
+
+
+Data science is:
+the study of data
+the art of uncovering trends and insights that are hidden behind the data
+A data scientist:
+is somebody who is very curious, communicative, analytic-driven and asks good questions
+is able to find solutions to problems by analyzing big or small data using the right tools and tells a fantastic story about the finding that nobody knew before
+tries to find patterns in structured or unstructured data and delivers a great story to the relevant people via the data
+finds the missing piece to the puzzle
+
+
+My dream is, helping businesses to reduce their costs, increase their profits and improve their business processes, specifically in the field of automation technology. Simply to automate everything that is impossible to automate.
+
+cover page
+table of contents
+executive summary
+introduction
+literature review
+methodology
+results
+discussion
+conclusion
+references, acknowledgements
+
+
+Cover Page -  This will include the title of the report, name of the author, date of the report and contact details of the author (for readers to contact the author if required), Name of the publisher (if any), etc.
+Table of Contents - This will be list of chapters or sections in the final report in a chronological order along with the respective page numbers. This will act as the map of the report.
+Executive Summary - This is the section which will summarize the purpose and objectives of the report and the findings in the report which will give a snapshot of the report to the reader.
+Introduction Section - This will be an introduction to the subject matter in the report and the problems 
+Literature Review Section - This section will give reference to surveys and articles that are more influential to the subject matter and the surveys and articles that have been used for the purpose of the report.
+Methodology Section - This section will highlight the research methodologies used, the type and sources of data used for the research, the data collection process, etc.
+Results Section - This is the section in which the findings of the data science project will be reported. These will be sequenced either in the order of the process or based on the severity of the finding.
+Discussion Section - This section of the report will justify that the findings of the project has addressed the purpose and objectives of the report. The purpose or the objective of the report could be to identify the causes of problem, predict the future, etc.
+Conclusion Section - This will be the last part of the report and will make the reader feel that the purpose/objective of the report has been fulfilled by the findings in the report
+Reference, acknowledgements and appendices -  This section will provide the references to the sources of data, surveys and articles refered, acknowldgement of inputs of others for the report, annexure to support any findings in the report, etc.
